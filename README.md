@@ -24,13 +24,15 @@ Students, artists, designers, researchers, and hobbyists use Processing for lear
 
 
 ---
-### Timings
-This workshop was created for Applicant Visit Days at the University of Bristol, and the rough timings for each section are below:
-- 14:15 Intro
-- 14:20 Intro to Processing - Drawing Program
-- 14:35 Clock Program Challenges - Playing with Time
-- 14:50 Group Work - Design a New Clock
-- 15:10 Presentations
+## Timings
+
+The rough timings for each section are below:
+- 10:00 Intro
+- 10:05 Intro to Processing - Drawing Program
+- 10:20 Clock Program Challenges - Playing with Time
+- 10:35 Group Work - Design a New Clock
+- 11:05 Presentations
+- 11:40 Tomorrows plan and environment setup
 
 
 ---
