@@ -181,8 +181,8 @@ Here are a few extensions you could try:
 **In this exercise you will be creatively modifying the code for a program that draws a working clock.**
 
 First create a new Processing sketch (File -> New)<br>
-Then copy and paste in [this code](https://raw.githubusercontent.com/LukeStorry/code-a-clock/master/examples/analogue/analogue.pde) for a simple analogue clock:
-
+Then copy and paste in [this code](https://raw.githubusercontent.com/UoB-SummerSchool/code-a-clock/main/examples/analogue/analogue.pde) for a simple analogue clock:
+https://raw.github.com/UoB-SummerSchool/code-a-clock/blob/main/examples/analogue/analogue.pde
 ```java
 int clockCentreX, clockCentreY;
 float secondsRadius;
@@ -427,7 +427,7 @@ If your clock is quirky/cool enough, it could be added to this gallery for futur
 ### Thanks!
 
 **We hope you enjoyed the workshop!**<br>
-If you have any feedback, either tell the person leading workshop, or fill out an issue on the [Github Repo](https://github.com/LukeStorry/code-a-clock/issues).
+If you have any feedback, either tell the person leading workshop, or fill out an issue on the [Github Repo](https://github.com/UoB-SummerSchool/code-a-clock/issues).
 
 :)
 
