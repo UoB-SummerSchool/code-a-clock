@@ -416,7 +416,7 @@ Team "The Illuminati" created this slightly unnerving clock that blinks every se
 
 If your clock is quirky/cool enough, it could be added to this gallery for future workshops.
 
-[Submit your code here!](https://goo.gl/forms/sGz90psADcLvI8ge2)
+[Submit your code here!](#)
 
 <br>
 
