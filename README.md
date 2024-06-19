@@ -3,9 +3,7 @@
 
 Workshop created for use as a demonstration lab session for UoB open days / applicant visit days.
 
-### [Live Website](https://sh1670.github.io/code-a-clock/)
-![Website https://sh1670.github.io/code-a-clock/]
-
+### [Live Website](https://uob-summerschool.github.io/code-a-clock/)
 
 ---
 
