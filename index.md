@@ -183,7 +183,7 @@ Here are a few extensions you could try:
 
 First create a new Processing sketch (File -> New)<br>
 Then copy and paste in [this code](https://raw.githubusercontent.com/UoB-SummerSchool/code-a-clock/main/examples/analogue/analogue.pde) for a simple analogue clock:
-https://raw.github.com/UoB-SummerSchool/code-a-clock/blob/main/examples/analogue/analogue.pde
+
 ```java
 int clockCentreX, clockCentreY;
 float secondsRadius;
