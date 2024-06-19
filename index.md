@@ -421,7 +421,6 @@ If your clock is quirky/cool enough, it could be added to this gallery for futur
 <br>
 
 --------------------------------------------------------------------------------
-=
 
 <br>
 
