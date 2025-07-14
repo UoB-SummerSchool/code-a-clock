@@ -51,11 +51,12 @@ Students, artists, designers, researchers, and hobbyists use Processing for lear
 The rough timings for each section are below:
 
 - 10:00 Intro
-- 10:05 Intro to Processing - Drawing Program
-- 10:20 Clock Program Challenges - Playing with Time
-- 10:35 Group Work - Design a New Clock
-- 11:05 Presentations
-- 11:40 Tomorrows plan and environment setup
+- 10:05 Laptop Setup
+- 10:20 Intro to Processing - Drawing Program
+- 10:35 Clock Program Challenges - Playing with Time
+- 10:50 Group Work (pairs) - Design a New Clock
+- 11:30 Start Presentations
+- 11:50 Tomorrows plan and environment setup
 
 **If you have any questions at any point, please ask a teaching assistant for help!**
 
